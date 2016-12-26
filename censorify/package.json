@@ -1,12 +1,12 @@
 {
-	"author":"Brad Dayley",
-	"name":"censorify",
+	"author":"Zhongwei Zhou",
+	"name":"censorify-zhongwei",
 	"version" : "0.1.1",
 	"description" : "Censors words out of text",
 	"main" :"censortext",
 	"repository" : {
 		"type" : "git",
-		"url" : "//github.com/Zhongwei1986/nma-practice/tree/master/censorify",
+		"url" : "//github.com/Zhongwei1986/nma-practice/tree/master/censorify"
 	},
 	"keywords" : [
 		"censor",
