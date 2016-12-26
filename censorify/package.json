@@ -1,7 +1,7 @@
 {
 	"author":"Zhongwei Zhou",
 	"name":"censorify-zhongwei",
-	"version" : "0.1.1",
+	"version" : "0.1.2",
 	"description" : "Censors words out of text",
 	"main" :"censortext",
 	"repository" : {
